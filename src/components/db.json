@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "title": "Team Meeting",
+      "description": "Discuss the upcoming sprint goals and review previous sprint progress.",
+      "id": "2"
+    },
+    {
+      "title": "Project Review",
+      "description": "Ready for review of the project",
+      "id": "317c"
+    },
+    {
+      "title": "Presentation",
+      "description": "prepare a presentation",
+      "id": "084c"
+    },
+    {
+      "title": "Scrum Call",
+      "description": "Project review scrum call",
+      "id": "113a"
+    },
+    {
+      "title": "Meeting1",
+      "description": "Project status meeting",
+      "id": "c707"
+    },
+    {
+      "title": "Complete Project Report",
+      "description": "Draft the final project report and share it with the team for feedback.",
+      "id": "68bd"
+    }
+  ]
+}
